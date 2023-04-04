@@ -1,0 +1,23 @@
+			Agenda
+			-----------
+
+		1.What is a framework?
+
+		2.Why Spring framework?
+
+		3.How Spring framework achieves its objectives? 
+
+		4.Dependency Injection
+
+		5.IOC Containers
+
+		6.Types of Dependency Injection
+
+		7.Constructor based injection
+
+		8.Setter based injection
+
+
+
+		Latest version of Spring framework is Spring 6.0
+
